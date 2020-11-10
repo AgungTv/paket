@@ -69,9 +69,6 @@ http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/rwksvJ7V/LIVE-TV.jpg" group-title="USEETV  INDONESIA",LIFE TV
 https://liveanevia.mncnow.id/live/eds/Life/sa_hls/Life-avc1_1000000=8-mp4a_66000_eng=2.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/7h5MW1L5/rodjatv-1640x856.jpg" group-title="USEETV  INDONESIA",RODJA TV
-https://tv.rodja.live/live/smil:rodjatv.smil/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/Fs2MTPsJ/2-AL-IMAN-TV.jpg" group-title="USEETV  INDONESIA",AL IMAN TV
 https://tv.rodja.live/aliman/HD/chunklist_w1818736780.m3u8
 
