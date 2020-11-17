@@ -1,5 +1,8 @@
 #EXTM3U
 ######## USEETV INDONESIA #########
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/nrw0rtF6/walibarokah.jpg" group-title="USEETV INDONESIA",ASRAMA HADIST ONLINE
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1605642129/ei/MdOzX_OjEYOgvwTAkbeIBQ/ip/123.253.232.100/id/a_jTAqSIy9w.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466588/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAN9KOUECE3sNecV6rDcP16iP4OvxBVc_IeK1rMi2lfKZAiAaJh-lqkp9la93cKBSr9Ep03FSoRAqs5LAX5Ecz4q2Bg%3D%3D/file/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/mDcsGrwS/RCTI.jpg" group-title="USEETV INDONESIA",RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
@@ -16,10 +19,10 @@ https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-m
 https://stream-04.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybHjm9z4vGL1P3nmwdeR058A)/dm/3/x619221/s/live-2.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/sgYLbsfQ/20110905015310-Kompas-TV.jpg" group-title="USEETV  INDONESIA",KOMPAS TV 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1605630920/ei/aKezX-rLBZHLpgfO4Jxo/ip/123.253.232.100/id/gIB2egm7tL8.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466588/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgIiP1vmi9tUwscQwkU_v_AfUVOqp58HWLun91VqsfgF0CIQCTxDUgAS2QT4nrgWl8pbjJq7LQa_Zyga3VXcd0RK5DfA%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1605642386/ei/MdSzX_frN4uRogPMtaSYDA/ip/123.253.232.100/id/gIB2egm7tL8.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466588/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKtGOMDfN9Rkc8tCXd0IDgRimMPIPnIw3Jrul9FafCz2AiBlb7YOsWjhQ5xzpx7PpRESucG90SYMcd2iIe7cULpDtQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/L57d4TGJ/net.jpg" group-title="USEETV  INDONESIA",NET TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1605632519/ei/p62zX8_xEMTLpge91ZSgDg/ip/123.253.232.100/id/MSQhwpYQbtQ.7/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466588/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgOaDtsemt-mVF2MBGS18KZHycDuLe3yLCJr4Oj-V76sYCIEuh836quNc9w8cCq9CPiQ_UFelsYgnxtkFgz2KLv4hx/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/ 1605642525/ei/vNSzX8_kOPuB9fwPgeyG4Ag/ip/123.253.232.100/id/MSQhwpYQbtQ.7/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466588/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALmyrM7_Hzqa8H9xiVyT5qIEdYVALp2zCoC4THeZLxYbAiBFaHT4priGdW-ZYuIeYjXb0lq8iw924plqQE4iqyz8Qg%3D%3D/file/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/fbhN08yX/trans7-300x180.jpg" group-title="USEETV  INDONESIA",TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1459146868_b744100_sleng.m3u
