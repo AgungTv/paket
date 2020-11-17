@@ -25,7 +25,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1605666041/ei/m
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1605666235/ei/WjG0X97POI22oAPn3o_4AQ/ip/123.253.232.100/id/MSQhwpYQbtQ.7/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466588/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAI4DTpFPF7BJJ39WOJTTdk_AJANRdaDG2gzlN5adTNhUAiEAmKpbjHGiSiKBmySonBZm1OGLn7ey77TBTKEea-zccIg%3D/file/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/fbhN08yX/trans7-300x180.jpg" group-title="USEETV  INDONESIA",TRANS7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1459146868_b744100_sleng.m3u
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1860703125_b744100_sleng.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/NMdqSY47/logo-transtv.jpg" group-title="USEETV  INDONESIA",TRANSTV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1064411078_b744100_sleng.m3u8
