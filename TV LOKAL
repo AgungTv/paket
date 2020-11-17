@@ -15,6 +15,9 @@ https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-m
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/pV0R1Qcb/TVone.jpg" group-title="USEETV  INDONESIA",TVONE 
 https://stream-04.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybHjm9z4vGL1P3nmwdeR058A)/dm/3/x619221/s/live-2.m3u8
 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/sgYLbsfQ/20110905015310-Kompas-TV.jpg" group-title="USEETV  INDONESIA",KOMPAS TV 
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1605602316/ei/rDezX8uXGJCP1AabjK2QDw/ip/123.253.232.100/id/gIB2egm7tL8.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466588/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJ9-5LBiqfvNqNkT21GIHJaAdggn9OCeUpMHcR4m-8ikAiEAumDv3eB0_4LKcdXg6waKlL9iq6WMbce0cLvqYjicer8%3D/file/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/fbhN08yX/trans7-300x180.jpg" group-title="USEETV  INDONESIA",TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1459146868_b744100_sleng.m3u
 
