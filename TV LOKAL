@@ -19,7 +19,7 @@ https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/pV0R1Qcb/TVone.jpg" group-title="USEETV  INDONESIA",TVONE 
-https://stream-04.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybHjm9z4vGL1P3nmwdeR058A)/dm/3/x619221/s/live-2.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1605964795/ei/m7-4X6TpEJKgvQSzvZuwBw/ip/123.253.232.100/id/XdZ2nJvmfrI.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466588/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAImwQV0yRSYVB7vIFx0yfS6CqljhsQa6-7BNEE1katJHAiAupIssGnW-1WpD9z0tU5XxfPLQhFJcVhUSdBlXabKAaQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/sgYLbsfQ/20110905015310-Kompas-TV.jpg" group-title="USEETV  INDONESIA",KOMPAS TV 
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1605963198/ei/Xrm4X_WkMP2BjuMP48OLmAs/ip/123.253.232.100/id/gIB2egm7tL8.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466588/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgS6J7sHQBSESjXNUPiK518coapOYpbfvdrvFugmqZLcECIQCyjM4-Bj7oetuYlZMCYFIZA9fz2b6dQZTVD2fOC1pOOg%3D%3D/file/index.m3u8
@@ -33,12 +33,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1605963436/ei/T
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/4NZLs57T/sky-news-logo.jpg" group-title="USEETV  INDONESIA",SKY NEWS LIVE
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1605963633/ei/Ebu4X8TJArvM4-EPsbuV0A0/ip/123.253.232.100/id/9Auq9mYxFEE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/gcr/id/vprv/1/go/1/keepalive/yes/beids/9466588/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIeI7A7qlG7uWKtn_SXFUNRAjR-XhrPa9IivkD3zTGnLAiEArP_E6iPZ-OlC7Qx2vWs9q3q-nW4L7MKzSUhw4gqgnNs%3D/file/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/d1ZsQFfD/61-Onak9-Qn-TL-AC-UL1135.jpg" group-title="USEETV  INDONESIA",PAW PATROL CARTOON
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1605963732/ei/dLu4X-erF5DU4-EP8r6zoAM/ip/123.253.232.100/id/_ClmSc6p5P4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466588/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAN1dVtLLwYQXcVlT-ecyFChbLPOd8nb1AIJLDW3EKvVQAiEAkYTzx1Nc-bQBTZCgrv-syAFQM8Bp96utGNanJioLFTo%3D/file/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/504rpSBJ/unnamed.jpg" group-title="USEETV  INDONESIA",Nickelodeon Bahasa
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1605963803/ei/u7u4X8ncA76jz7sPzYisgAc/ip/123.253.232.100/id/E49fJZCq2xU.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466588/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIwOq_eEunDLQOMFmi2mpj3jyqw_gJFqANdvtpvxBLeUAiBRdjd8TvhBE3yMN4q-5keNjzuNcaJ63DGd7cGSup6AeA%3D%3D/file/index.m3u8
-
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/fbhN08yX/trans7-300x180.jpg" group-title="USEETV  INDONESIA",TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1860703125_b744100_sleng.m3u8
 
@@ -46,7 +40,7 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1860703125_b744100_sl
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1064411078_b744100_sleng.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CK4WnYWT/metro-tv-Logo-Vector-Stasiun-Televisi.jpg" group-title="USEETV  INDONESIA",Metro TV
-https://stream-04.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCSwFnPrYi0_lR99eg5pEtVIo)/dm/3/x75p70w/d/live-1.m3u8
+https://stream-04.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCSyNerDOP1oe7qAhTH78rxYw)/dm/3/x75p70w/d/live-2.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/0jnPZ36y/Nagaswara-TV.jpg" group-title="USEETV  INDONESIA",Dangdut TV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1605963887/ei/Dry4X5HwOvCB9fwP_ZCosAI/ip/123.253.232.100/id/IfNYcNWIim4.16/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466588/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKI3hF-NOkfTdOE-MHQDb3e7IMJqD73pVGevin77GE2oAiBzGqTawys4xrpfbj5ulNlhkd0aR2m4oirCDW1OV2GKlg%3D%3D/file/index.m3u8
