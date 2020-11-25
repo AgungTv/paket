@@ -45,6 +45,9 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1606305560/ei/u
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/HsnffjR2/Musica-Studio-s.jpg" group-title="USEETV  INDONESIA",Musik Indonesia
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1606305634/ei/AfO9X--_PIfj4-EP5_26wAI/ip/36.81.154.109/id/P7CcEPO06ds.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466588/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALJUdVfr6hB8tMvnADgjy8qX97vSmUtIaVSo7XhwM7X0AiEA-zzIG6Dsw_JXXkNPePbm2dg7c9ZbJfAdALzK6onrltE%3D/file/index.m3u8
 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/HsnffjR2/Musica-Studio-s.jpg" group-title="USEETV  INDONESIA",Musik Jadul
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1606310365/ei/fAW-X-WnOpbFz7sPmZuZgA4/ip/36.81.154.109/id/0WKtuWQ01lc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466588/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAICUyreVfa7zG2T_Pe3V3b8yjcNbG_dGElV1A5mbZ9xZAiBjj2QlcQtWGEV0H5yFCqaW4EP2ty_f1vNyvD68RlTgOA%3D%3D/file/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/bvLBNgtq/index.jpg" group-title="USEETV  INDONESIA",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
