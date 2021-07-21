@@ -1,8 +1,5 @@
 #EXTM3U
 ######## USEETV INDONESIA #########
-#EXTINF:-1  tvg-logo="" group-title="USEETV INDONESIA",TAYANG SETIAP HARI MINGGU
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1606051056/ei/kBC6X9LMD5CnwgPyj7HoCA/ip/123.253.232.100/id/c5UBb6qdei0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgB8yfXp1xM8wzB-9KL1gGkcvKfdrMrWN0YdDZgmm00vwCIHLiTWseSBFxSAUyQTuAUAhje-jHnmnNL9fePYp_O5uK/file/index.m3u8
-
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/mDcsGrwS/RCTI.jpg" group-title="USEETV INDONESIA",RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_768000=6-mp4a_64000=2.m3u8
 
@@ -16,12 +13,12 @@ https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_768000=6-mp4a_6
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_768000=6-mp4a_64000=2.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/pV0R1Qcb/TVone.jpg" group-title="USEETV  INDONESIA",TVONE 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1620743989/ei/1UKaYLH9MIOR4-EPyJaMwAE/ip/36.81.206.133/id/p2Q4cYyfI_E.1/source/yt_live_broadcast/requiressl/yes/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/hightc/yes/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/9466588/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Chightc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALdiY-IHrY2AiY_WqSIVOxY9JtUOKM-oh-oJgKINGlYLAiEA0TV1EATt-e-aVdCIRvSJmmzNgkccebYwXjMB3myxTWg%3D/file/index.m3u8
+https://stream-04.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybLkyhWbE_7IQFKd2t8HHbx4)/dm/3/x619221/s/live-1.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/sgYLbsfQ/20110905015310-Kompas-TV.jpg" group-title="USEETV  INDONESIA",KOMPAS TV 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1620744160/ei/gEOaYOypBLKTmgft6LOQDw/ip/36.81.206.133/id/u8CZ49jSsC0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/hightc/yes/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/9466588/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Chightc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgYlO_hksQGJwZKxxmAiJ0gjQSTHX5PQPkgDMvn9S7JIECIQCMQe0nkqt8CW0UdTJjE9c88LPkiWDmnzh2mlMQQicjFw%3D%3D/file/index.m3u8
+https://stream-02.sg1.dailymotion.com/sec(YrrUAJd7Mkrt71XkqWdXrY8iCq-Sq8B2L49ytYnal3I)/dm/3/x72rofw/d/live-0.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/L57d4TGJ/net.jpg" group-title="USEETV  INDONESIA",NET TV
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/L57d4TGJ/net.jpg" group-title="USEETV  INDONESIA",NET TV Gagal
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1620744236/ei/zEOaYKWANtOQz7sPlr2L8A8/ip/36.81.206.133/id/XrATb_gdoYQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/hightc/yes/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/9466588/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Chightc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgE8t3_3_PKJDZk3aFzGd0QXfmM1VoUclCzDJcAA9jwFkCIQDvixzbFHiodZjw51s17NFt_DfzAvFKPoLyVQxvqAAJzQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/fbhN08yX/trans7-300x180.jpg" group-title="USEETV  INDONESIA",TRANS7
@@ -31,7 +28,7 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1860703125_b744100_sl
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1064411078_b744100_sleng.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CK4WnYWT/metro-tv-Logo-Vector-Stasiun-Televisi.jpg" group-title="USEETV  INDONESIA",Metro TV
-https://stream-05.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS1KJU8ogAFFUpuqhiQopF10)/dm/3/x75p70w/d/live-2.m3u8
+https://stream-01.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS59kloWaoxCnB7HYXxOotQ0)/dm/3/x75p70w/d/live-2.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/bvLBNgtq/index.jpg" group-title="USEETV  INDONESIA",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
